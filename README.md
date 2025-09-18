@@ -8,7 +8,9 @@ Insights and Recommendations are provided on the following key areas:
 
   -
 
-An interactive Tableau dashboard can be found here
+An interactive Tableau dashboard on financial transactions can be found here
+
+An interactive Tableau dashbaord on fraud analysis can be found here
 
 The SQL queries utilized to inspect and perform quality checks can be found here
 

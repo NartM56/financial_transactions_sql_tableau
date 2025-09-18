@@ -22,6 +22,8 @@ Targeted SQL queries regarding various questions can be found here
 
 The data is structured using 3 tables in the form of csv files, along with 2 json files:
 
+<img width="2126" height="1236" alt="Image" src="https://github.com/user-attachments/assets/759ec4d3-e853-44e8-8f45-12a671571e42" />
+
 ## Executive Summary
 
 ## Recommendations

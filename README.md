@@ -6,7 +6,9 @@ This project uses SQL queries in order to clean and manipulate data in order to 
 
 Insights and Recommendations are provided on the following key areas:
 
-  -
+  - Financial Transactions Analysis: Analysis of financial transctions over time
+  - Card Attributes: Transactions filtered by different card types and brands
+  - Fraud Window: Time of day in which fraud occurs most often
 
 An interactive Tableau dashboard on financial transactions can be found here
 

@@ -28,4 +28,25 @@ The data is structured using 3 tables in the form of csv files, along with 2 jso
 
 ## Executive Summary
 
+After increasing from 2010 and hitting the peak transactions at 2020, the financial transactions took a decline in 2019 for all card brands. Key performance indicators have all shown decreases, with total transaction amount decreasing by a wide margin and amount per transaction along with amount of users decreasing slightly. Fraud analysis shows peak fraud hours to be between 10 and 1 on Sundays, with Wholesale Clubs attributing to large portion of fraud transactions. at The following sections will explore additional factors, along with hightley the key areas for improvement.
+
+Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/shared/BRFRQ38Z4?:display_count=n&:origin=viz_share_link)
+
+<img width="1463" height="879" alt="image" src="https://github.com/user-attachments/assets/62397ac1-a6f7-42bb-8016-8ceef0eb8ec8" />
+
+
+
+Below is the overview of the Tableau fraud analysis dashbaord. The entire interactive dashboard can be found here.
+
+### Financial Transaction Trends
+
+- Financial transactions peaked in 2018, with 1394792 total transactions totaling to $59,627,318 being transacted.
+- After 2018, revenue declined going into 2019, with all four card brands experiencing a drop in total transactions. Data has not been updated for following years, but this was the first time a decline was experienced for financial transaction records.
+- For all years, most transactions were processed thorugh Mastercard and Visa, with Amex and Discover taking up a small percent of the total transactions. Mastercard held the top spot for all years, experiencing its peak at 754,077 transactions in 2018.
+
+
+### Card Attributes
+
+### Fraud Window
+
 ## Recommendations

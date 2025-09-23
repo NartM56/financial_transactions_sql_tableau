@@ -38,6 +38,9 @@ Below is the overview of the Tableau financial transaction dashboard. The entire
 
 Below is the overview of the Tableau fraud analysis dashbaord. The entire interactive dashboard can be found here.
 
+<img width="2926" height="1758" alt="image" src="https://github.com/user-attachments/assets/635dc07e-8b65-416d-9866-2ff04fb83497" />
+
+
 ### Financial Transaction Trends
 
 - Financial transactions peaked in 2018, with 1394792 total transactions totaling to $59,627,318 being transacted.

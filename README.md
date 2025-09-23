@@ -14,9 +14,9 @@ An interactive Tableau dashboard on financial transactions can be found here
 
 An interactive Tableau dashbaord on fraud analysis can be found here
 
-The SQL queries utilized to inspect and perform quality checks can be found here
+The SQL queries utilized to inspect and perform quality checks can be found [here](/Users/nartmachfj/Downloads/queries/joined_view_sql.sql)
 
-The SQL queries utilized to clean, organize and prepare data can be found here
+The SQL queries utilized to clean, join and prepare data can be found here
 
 Targeted SQL queries regarding various questions can be found here
 

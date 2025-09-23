@@ -1,3 +1,4 @@
+/* Create joined table for future analysis */
 CREATE VIEW joined AS
 WITH codes_adjusted AS (
 SELECT id AS mcc, industry
@@ -16,6 +17,7 @@ FROM merged AS m
 LEFT JOIN cards AS c
 ON m.card_id = c.id
 )
+/* Join 2 json files to the csv files */
 SELECT *
 FROM join1
 LEFT JOIN codes_adjusted

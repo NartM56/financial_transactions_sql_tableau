@@ -30,13 +30,13 @@ The data is structured using 3 tables in the form of csv files, along with 2 jso
 
 After increasing from 2010 and hitting the peak transactions at 2020, the financial transactions took a decline in 2019 for all card brands. Key performance indicators have all shown decreases, with total transaction amount decreasing by a wide margin and amount per transaction along with amount of users decreasing slightly. Fraud analysis shows peak fraud hours to be between 10 and 1 on Sundays, with Wholesale Clubs attributing to large portion of fraud transactions. at The following sections will explore additional factors, along with hightley the key areas for improvement.
 
-Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/shared/BRFRQ38Z4?:display_count=n&:origin=viz_share_link)
+Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/shared/DCH2ZG7KC?:display_count=n&:origin=viz_share_link)
 
 <img width="1463" height="879" alt="image" src="https://github.com/user-attachments/assets/62397ac1-a6f7-42bb-8016-8ceef0eb8ec8" />
 
 
 
-Below is the overview of the Tableau fraud analysis dashbaord. The entire interactive dashboard can be found here.
+Below is the overview of the Tableau fraud analysis dashbaord. The entire interactive dashboard can be found [here](https://public.tableau.com/views/Sep23FraudDashboard/FraudAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 <img width="2926" height="1758" alt="image" src="https://github.com/user-attachments/assets/635dc07e-8b65-416d-9866-2ff04fb83497" />
 
@@ -50,6 +50,18 @@ Below is the overview of the Tableau fraud analysis dashbaord. The entire intera
 
 ### Card Attributes
 
+-Analyzing overall transactions, we see Mastercard taking the lead over Visa, but looking only at credit cards, we see Visa outperforming Mastercard.
+- Discover and Amex have not released a Debit Card, contributing to the big gap between these two payment issuers and Mastercard and Visa.
+- Swipe Transaction usage drastically decreased starting in January 2015, with Mastercard experiencing an 80.2% drop, falling from 55,382 transactions in December 2014 to 10,956 transactions in January 2015 and it consistently staying around this value for the rest of the years. Visa experienced an 81.2% drop, Amex an 83.5% decrase and Discover encountering a 78.9% fall.
+<img width="1240" height="508" alt="image" src="https://github.com/user-attachments/assets/ce18fe55-8595-4fdf-9493-a474aa8e9a1a" />
+
+
 ### Fraud Window
+- Total of 13,332 fraud transactions throughout the years, with Department Stores being associated with 2,251 of these transactions, occupying 16.88% of all fradulent transactions.
+- Time period in which most fraud transactions occured were between 10 and 1 during Sunday, with Tuesday, Thurday and Friday also experiencing most of their fraud transactions during that time.
+- Most fraud transactions from 2010 to 2015 were done through online transactions, with chip transactions taking over starting from 2016 until 2019. No online fraud transacions occured in 2017 and 2019.
 
 ## Recommendations
+- For Amex and Discover, focus on releasing a Debit card, which could massively contribute to their total gain and to the total transactions using the payment issuers.
+- Assign extra security during peak fraud hours in order to be aware of the transactions and to catch them as fast as possible
+- 

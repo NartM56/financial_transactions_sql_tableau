@@ -32,13 +32,15 @@ After increasing from 2010 and hitting the peak transactions in 2018, the financ
 
 Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/shared/DCH2ZG7KC?:display_count=n&:origin=viz_share_link)
 
-<img width="1463" height="879" alt="image" src="https://github.com/user-attachments/assets/62397ac1-a6f7-42bb-8016-8ceef0eb8ec8" />
+<img width="2512" height="1358" alt="image" src="https://github.com/user-attachments/assets/742f5c0c-6a77-476c-b54a-5e64fb91e1bc" />
+
 
 
 
 Below is the overview of the Tableau fraud analysis dashbaord. The entire interactive dashboard can be found [here](https://public.tableau.com/views/Sep23FraudDashboard/FraudAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-<img width="2926" height="1758" alt="image" src="https://github.com/user-attachments/assets/635dc07e-8b65-416d-9866-2ff04fb83497" />
+<img width="2940" height="1732" alt="image" src="https://github.com/user-attachments/assets/b38eb589-23da-4881-84f5-df9e6b0fba61" />
+
 
 
 ### Financial Transaction Trends

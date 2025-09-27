@@ -28,7 +28,7 @@ The data is structured using 3 tables in the form of csv files, along with 2 jso
 
 ## Executive Summary
 
-After increasing from 2010 and hitting the peak transactions at 2020, the financial transactions took a decline in 2019 for all card brands. Key performance indicators have all shown decreases, with total transaction amount decreasing by a wide margin and amount per transaction along with amount of users decreasing slightly. Fraud analysis shows peak fraud hours to be between 10 and 1 on Sundays, with Wholesale Clubs attributing to large portion of fraud transactions. at The following sections will explore additional factors, along with hightley the key areas for improvement.
+After increasing from 2010 and hitting the peak transactions in 2018, the financial transactions took a decline in 2019 for all card brands. Key performance indicators have all shown decreases, with total transaction amount decreasing by a wide margin and amount per transaction along with amount of users decreasing slightly. Fraud analysis shows peak fraud hours to be between 10 and 1 on Sundays, with Wholesale Clubs attributing to large portion of fraud transactions. at The following sections will explore additional factors, along with higlighting the key areas for improvement.
 
 Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/shared/DCH2ZG7KC?:display_count=n&:origin=viz_share_link)
 
@@ -50,18 +50,23 @@ Below is the overview of the Tableau fraud analysis dashbaord. The entire intera
 
 ### Card Attributes
 
--Analyzing overall transactions, we see Mastercard taking the lead over Visa, but looking only at credit cards, we see Visa outperforming Mastercard.
+- Analyzing overall transactions, we see Mastercard taking the lead over Visa, but looking only at credit cards, we see Visa outperforming Mastercard.
 - Discover and Amex have not released a Debit Card, contributing to the big gap between these two payment issuers and Mastercard and Visa.
 - Swipe Transaction usage drastically decreased starting in January 2015, with Mastercard experiencing an 80.2% drop, falling from 55,382 transactions in December 2014 to 10,956 transactions in January 2015 and it consistently staying around this value for the rest of the years. Visa experienced an 81.2% drop, Amex an 83.5% decrase and Discover encountering a 78.9% fall.
 <img width="1240" height="508" alt="image" src="https://github.com/user-attachments/assets/ce18fe55-8595-4fdf-9493-a474aa8e9a1a" />
 
 
 ### Fraud Window
-- Total of 13,332 fraud transactions throughout the years, with Department Stores being associated with 2,251 of these transactions, occupying 16.88% of all fradulent transactions.
+- Total of 13,332 fraud transactions throughout the years, with Department Stores being associated with 2,251 of these transactions, occupying 16.88% of all fraudulent transactions.
 - Time period in which most fraud transactions occured were between 10 and 1 during Sunday, with Tuesday, Thurday and Friday also experiencing most of their fraud transactions during that time.
 - Most fraud transactions from 2010 to 2015 were done through online transactions, with chip transactions taking over starting from 2016 until 2019. No online fraud transacions occured in 2017 and 2019.
+- Starting from 2017, Italy has surprisingly had 3,061 total fraud transactions, since no fraud transactions occured from 2010 all the way until 2016. Italy has had 86.1% more fraud transactions than regular transactions, with 1,645 of them being counted as non-fraudulent and 3,061 as fraudulent.
+- 85.2% of fraudulent transactions come from people with a yearly income of at most $60,000. By contrast, higher-income groups (> $60,000) account for only 14.8% of cases
 
 ## Recommendations
-- For Amex and Discover, focus on releasing a Debit card, which could massively contribute to their total gain and to the total transactions using the payment issuers.
-- Assign extra security during peak fraud hours in order to be aware of the transactions and to catch them as fast as possible
+- **Shift Away From Swipe Transactions**: The sharp and sutained drop of swipe transcations starting in January 2015 indicates that payment has shifted toward contacless methods. Invest further in contacless payment methods and educate the consumers on the security benefits.
+- **Adress Amex and Discover**: For Amex and Discover, focus on releasing a Debit card, which could massively contribute to their total gain and to the total transactions made using the payment issuers.
+- **Treat Department Stores As A Dangerous Industry**: Enhance fraud monitoring by adding real-time monitoring systems that flag unusual transactions and provide training to staff on how to spot possible fraudulent transactions.
+- **Fraud Protection During Peak Hours**: Look to assign extra security and fraud protection during peak fraud hours in order to be aware of the transactions and to catch them as fast as possible. Focus on also emphasizing risk of fraud toward merchants and consumers, leading them away from participating.
+- **Investigate Cause Of The Sudden Onset In Italy**: Reevaluate the vulnerability in the systems, along with possibly introducing new fraud tactics and treating the country as a high risk market.
 - 

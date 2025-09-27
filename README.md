@@ -69,4 +69,3 @@ Below is the overview of the Tableau fraud analysis dashbaord. The entire intera
 - **Treat Department Stores As A Dangerous Industry**: Enhance fraud monitoring by adding real-time monitoring systems that flag unusual transactions and provide training to staff on how to spot possible fraudulent transactions.
 - **Fraud Protection During Peak Hours**: Look to assign extra security and fraud protection during peak fraud hours in order to be aware of the transactions and to catch them as fast as possible. Focus on also emphasizing risk of fraud toward merchants and consumers, leading them away from participating.
 - **Investigate Cause Of The Sudden Onset In Italy**: Reevaluate the vulnerability in the systems, along with possibly introducing new fraud tactics and treating the country as a high risk market.
-- 

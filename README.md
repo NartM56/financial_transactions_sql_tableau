@@ -28,7 +28,8 @@ The data is structured using 3 tables in the form of csv files, along with 2 jso
 
 ## Executive Summary
 
-After increasing from 2010 and hitting the peak transactions in 2018, the financial transactions took a decline in 2019 for all card brands. Key performance indicators have all shown decreases, with total transaction amount decreasing by a wide margin and amount per transaction along with amount of users decreasing slightly. Fraud analysis shows peak fraud hours to be between 10 and 1 on Sundays, with Wholesale Clubs attributing to large portion of fraud transactions. at The following sections will explore additional factors, along with higlighting the key areas for improvement.
+Transactions have been steadily on the incline throughout the years. Total transaction amount, along with the amount of users have both shown year-over year increase, with the average amount per transaction decreasing anually. Fraud analysis shows Department Stores attributing to a large portion of fraud transactions and peak hours appearing during Sunday between 10 and 1. Although this can be somewhat dedicated to the increase of users, the following sections will explore additional factors for these results and highlight the key areas for improvement. 
+
 
 Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/shared/DCH2ZG7KC?:display_count=n&:origin=viz_share_link)
 

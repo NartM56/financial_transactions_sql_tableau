@@ -2,17 +2,13 @@
 
 ## Project Overview
 
-This project uses SQL queries in order to clean and manipulate data in order to create multiple tableau dashboards to uncover trends in customer transactions and fraud behaviors
+This project uses SQL queries in order to clean and manipulate data in order to create a pair of Tableau dashboards to uncover trends in customer transactions and fraud behaviors
 
 Insights and Recommendations are provided on the following key areas:
 
   - Financial Transactions Analysis: Analysis of financial transctions over time
   - Card Attributes: Transactions filtered by different card types and brands
   - Fraud Window: Time of day in which fraud occurs most often
-
-An interactive Tableau dashboard on financial transactions can be found here
-
-An interactive Tableau dashbaord on fraud analysis can be found here
 
 The SQL queries utilized to clean, join and prepare data can be found [here](./joined_view_sql.sql)
 
@@ -31,7 +27,7 @@ The data is structured using 3 tables in the form of csv files, along with 2 jso
 Transactions have been steadily on the incline throughout the years. Total transaction amount, along with the amount of users have both shown year-over year increase, with the average amount per transaction decreasing anually. Fraud analysis shows Department Stores attributing to a large portion of fraud transactions and peak hours appearing during Sunday between 10 and 1. Although this can be somewhat dedicated to the increase of users, the following sections will explore additional factors for these results and highlight the key areas for improvement. 
 
 
-Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/shared/DCH2ZG7KC?:display_count=n&:origin=viz_share_link)
+Below is the overview of the Tableau financial transaction dashboard. The entire interactive dashbord can be found [here](https://public.tableau.com/views/financialtransactions/FinancialTransactions?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="2512" height="1358" alt="image" src="https://github.com/user-attachments/assets/742f5c0c-6a77-476c-b54a-5e64fb91e1bc" />
 

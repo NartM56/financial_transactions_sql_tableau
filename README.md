@@ -14,7 +14,7 @@ The SQL queries utilized to clean, join and prepare data can be found [here](./j
 
 Targeted SQL queries regarding various questions on financial transactions can be found [here](./analysis-queries.sql)
 
-Targeted SQL queries regarding various questions on fraud analysis can be found here
+Targeted SQL queries regarding various questions on fraud analysis can be found [here](./fraud_queries.sql)
 
 ## Data Structure and Initial Checks
 

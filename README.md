@@ -18,7 +18,7 @@ Targeted SQL queries regarding various questions on fraud analysis can be found 
 
 ## Data Structure and Initial Checks
 
-The data is structured using 3 tables in the form of csv files, along with 2 json files:
+The data is structured using 3 tables in the form of csv files: transactions, users and cards, along with 2 json files: cards and frauds. The Entity Relationship Diagram (ERD) is found below:
 
 <img width="2126" height="1236" alt="Image" src="https://github.com/user-attachments/assets/759ec4d3-e853-44e8-8f45-12a671571e42" />
 
@@ -44,7 +44,7 @@ Below is the overview of the Tableau fraud analysis dashbaord. The entire intera
 
 - Financial transactions peaked in 2018, with 1394792 total transactions totaling to $59,627,318 being transacted.
   
-- After 2018, revenue declined going into 2019, with all four card brands experiencing a drop in total transactions. Data has not been updated for following years, but this was the first time a decline was experienced for financial transaction records.
+- 6 of top 10 fraud clients are located in Texas and California, indicating that these states represent a significant portion of the overall activity. Understanding this can help tailor certain regional strategies and prioritize marketing and sales in these regions.
   
 - For all years, most transactions were processed thorugh Mastercard and Visa, with Amex and Discover taking up a small percent of the total transactions. Mastercard held the top spot for all years, experiencing its peak at 754,077 transactions in 2018.
 
